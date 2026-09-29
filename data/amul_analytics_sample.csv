@@ -1,0 +1,69 @@
+date,region,city,product_category,product_name,units_sold,revenue,profit_margin,marketing_spend
+2024-01-01,North,Delhi,Dairy,Amul Gold Milk,1200,420000,0.22,60000
+2024-01-01,South,Bengaluru,Snacks,Amul Cheese Slice,900,315000,0.18,42000
+2024-01-01,West,Mumbai,Ice Cream,Amul Kulfi,1100,385000,0.21,54000
+2024-01-01,East,Kolkata,Frozen Foods,Amul Butter,850,298000,0.20,47000
+2024-02-01,North,Jaipur,Dairy,Amul Taaza Milk,1300,455000,0.23,62000
+2024-02-01,South,Hyderabad,Snacks,Amul Masti Buttermilk,1050,360000,0.19,50000
+2024-02-01,West,Pune,Ice Cream,Amul Mango Delight,990,345000,0.20,48000
+2024-02-01,East,Bhubaneswar,Frozen Foods,Amul Ghee,875,310000,0.25,51000
+2024-03-01,North,Delhi,Dairy,Amul SlimnTrim,1400,490000,0.24,66000
+2024-03-01,South,Chennai,Snacks,Amul Paneer,1180,402000,0.18,53000
+2024-03-01,West,Nashik,Ice Cream,Amul Chocolate Cone,1150,406000,0.22,56000
+2024-03-01,East,Patna,Frozen Foods,Amul Shrikhand,890,325000,0.24,49000
+2024-04-01,North,Noida,Dairy,Amul Gold Milk,1460,510000,0.22,70000
+2024-04-01,South,Bengaluru,Snacks,Amul Cheese Slice,960,335000,0.19,44000
+2024-04-01,West,Mumbai,Ice Cream,Amul Kulfi,1210,420000,0.21,57000
+2024-04-01,East,Kolkata,Frozen Foods,Amul Butter,920,330000,0.21,52000
+2024-05-01,North,Jaipur,Dairy,Amul Taaza Milk,1500,525000,0.24,68000
+2024-05-01,South,Hyderabad,Snacks,Amul Masti Buttermilk,1120,389000,0.20,52000
+2024-05-01,West,Pune,Ice Cream,Amul Mango Delight,1010,355000,0.22,50000
+2024-05-01,East,Bhubaneswar,Frozen Foods,Amul Ghee,900,319000,0.25,53000
+2024-06-01,North,Delhi,Dairy,Amul SlimnTrim,1540,545000,0.25,71000
+2024-06-01,South,Chennai,Snacks,Amul Paneer,1220,418000,0.19,55000
+2024-06-01,West,Nashik,Ice Cream,Amul Chocolate Cone,1180,420000,0.23,59000
+2024-06-01,East,Patna,Frozen Foods,Amul Shrikhand,930,338000,0.24,50000
+2024-07-01,North,Noida,Dairy,Amul Gold Milk,1580,560000,0.23,73000
+2024-07-01,South,Bengaluru,Snacks,Amul Cheese Slice,1010,352000,0.20,47000
+2024-07-01,West,Mumbai,Ice Cream,Amul Kulfi,1240,435000,0.22,58000
+2024-07-01,East,Kolkata,Frozen Foods,Amul Butter,960,349000,0.22,54000
+2024-08-01,North,Jaipur,Dairy,Amul Taaza Milk,1620,570000,0.25,74000
+2024-08-01,South,Hyderabad,Snacks,Amul Masti Buttermilk,1170,402000,0.21,54000
+2024-08-01,West,Pune,Ice Cream,Amul Mango Delight,1035,368000,0.23,49000
+2024-08-01,East,Bhubaneswar,Frozen Foods,Amul Ghee,930,332000,0.26,55000
+2024-09-01,North,Delhi,Dairy,Amul SlimnTrim,1700,600000,0.26,76000
+2024-09-01,South,Chennai,Snacks,Amul Paneer,1260,431000,0.20,56000
+2024-09-01,West,Nashik,Ice Cream,Amul Chocolate Cone,1210,430000,0.24,60000
+2024-09-01,East,Patna,Frozen Foods,Amul Shrikhand,960,345000,0.25,52000
+2024-10-01,North,Noida,Dairy,Amul Gold Milk,1710,612000,0.24,78000
+2024-10-01,South,Bengaluru,Snacks,Amul Cheese Slice,1060,370000,0.21,50000
+2024-10-01,West,Mumbai,Ice Cream,Amul Kulfi,1275,450000,0.22,59000
+2024-10-01,East,Kolkata,Frozen Foods,Amul Butter,995,356000,0.23,56000
+2024-11-01,North,Jaipur,Dairy,Amul Taaza Milk,1760,620000,0.26,79000
+2024-11-01,South,Hyderabad,Snacks,Amul Masti Buttermilk,1190,415000,0.21,56000
+2024-11-01,West,Pune,Ice Cream,Amul Mango Delight,1060,381000,0.24,51000
+2024-11-01,East,Bhubaneswar,Frozen Foods,Amul Ghee,960,345000,0.26,57000
+2024-12-01,North,Delhi,Dairy,Amul SlimnTrim,1820,640000,0.27,81000
+2024-12-01,South,Chennai,Snacks,Amul Paneer,1290,442000,0.20,58000
+2024-12-01,West,Nashik,Ice Cream,Amul Chocolate Cone,1240,440000,0.25,62000
+2024-12-01,East,Patna,Frozen Foods,Amul Shrikhand,990,360000,0.26,53000
+2024-01-01,North,Delhi,Dairy,Amul Taaza Milk,1320,468000,0.23,63000
+2024-01-01,South,Bengaluru,Snacks,Amul Paneer,950,330000,0.18,43000
+2024-01-01,West,Mumbai,Ice Cream,Amul Chocolate Cone,1120,395000,0.21,55000
+2024-01-01,East,Kolkata,Frozen Foods,Amul Ghee,870,305000,0.24,48000
+2024-02-01,North,Jaipur,Dairy,Amul Gold Milk,1380,482000,0.22,65000
+2024-02-01,South,Hyderabad,Snacks,Amul Cheese Slice,990,348000,0.19,45000
+2024-02-01,West,Pune,Ice Cream,Amul Kulfi,1030,360000,0.21,50000
+2024-02-01,East,Bhubaneswar,Frozen Foods,Amul Butter,900,322000,0.21,50000
+2024-03-01,North,Noida,Dairy,Amul SlimnTrim,1510,532000,0.24,69000
+2024-03-01,South,Chennai,Snacks,Amul Masti Buttermilk,1175,404000,0.18,54000
+2024-03-01,West,Nashik,Ice Cream,Amul Mango Delight,1180,412000,0.22,57000
+2024-03-01,East,Patna,Frozen Foods,Amul Shrikhand,910,328000,0.24,50000
+2024-04-01,North,Delhi,Dairy,Amul Gold Milk,1525,535000,0.23,71000
+2024-04-01,South,Bengaluru,Snacks,Amul Cheese Slice,1005,350000,0.20,46000
+2024-04-01,West,Mumbai,Ice Cream,Amul Kulfi,1230,430000,0.22,58000
+2024-04-01,East,Kolkata,Frozen Foods,Amul Ghee,945,341000,0.25,52000
+2024-05-01,North,Jaipur,Dairy,Amul Taaza Milk,1605,568000,0.25,73000
+2024-05-01,South,Hyderabad,Snacks,Amul Paneer,1200,414000,0.20,55000
+2024-05-01,West,Pune,Ice Cream,Amul Mango Delight,1050,375000,0.24,51000
+2024-05-01,East,Bhubaneswar,Frozen Foods,Amul Butter,965,350000,0.22,54000
